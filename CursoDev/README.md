@@ -10,6 +10,12 @@ Meu objetivo é aprender com Filipe Deschamps durante as aulas do Curso.dev e re
 
 - Durante a semana, dedicarei um tempo para acessar as aulas do curso.
 - Marcarei cada dia como concluído conforme avanço no curso.
+- Estou testando os commits para poder fechar uma issue
+
+### Testes
+
+`git commit -m "update: README CursoDev progress: Close Dia001 #4"` Não fechou
+
 
 ## Progresso
 
