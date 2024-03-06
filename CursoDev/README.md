@@ -16,6 +16,7 @@ Meu objetivo é aprender com Filipe Deschamps durante as aulas do Curso.dev e re
 
 `git commit -m "update: README CursoDev progress: Close Dia001 #4"` Não fechou
 `git commit -m "update: README CursoDev progress: Dia001 Close #4"` Fechou a issue
+`git commit -m "reopen issue"` Reabre a última issue fechada, se quiser especificar, basta colocar o # e o número da issue
 
 ## Progresso
 
