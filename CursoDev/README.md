@@ -21,6 +21,7 @@ Meu objetivo é aprender com Filipe Deschamps durante as aulas do Curso.dev e re
 - Alterei Assignees e coloquei meu nome, mesmo assim não reabriu depois de usar o reopen issu #4
 - Pesquisando no Gemini: insistiu em usar o reopen issue
 - Pesquisando no Copilot: disse que o github não permite a reabertura de issue via terminal, apenas o fechamento, para reabrir só através da API do GitHub
+- `git commit --allow-empty -m "Fixes  #4"` Fecha a issue sem precisar alterar código
 
 
 ## Progresso
