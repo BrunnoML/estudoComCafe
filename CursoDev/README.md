@@ -10,18 +10,13 @@ Meu objetivo é aprender com Filipe Deschamps durante as aulas do Curso.dev e re
 
 - Durante a semana, dedicarei um tempo para acessar as aulas do curso.
 - Marcarei cada dia como concluído conforme avanço no curso.
-- Estou testando os commits para poder fechar ou reabrir uma issue
+- Estou usando commit com a alteração do README ou sem alteração de código via terminal para poder fechar uma issue.
 
-### Testes
-
-- `git commit -m "update: README CursoDev progress: Close Dia001 #4"` Não fechou
-- `git commit -m "update: README CursoDev progress: Dia001 Close #4"` Fechou a issue
-- `git commit -m "reopen issue"` Era para reabrir a última issue fechada
-- `git commit -m "reopen issue #4"` Também não reabriu
-- Alterei Assignees e coloquei meu nome, mesmo assim não reabriu depois de usar o reopen issu #4
-- Pesquisando no Gemini: insistiu em usar o reopen issue
-- Pesquisando no Copilot: disse que o github não permite a reabertura de issue via terminal, apenas o fechamento, para reabrir só através da API do GitHub
-- `git commit --allow-empty -m "Fixes  #4"` Fecha a issue sem precisar alterar código
+'''
+bash
+git commit -m "update: README CursoDev progress: Dia001 Close #4"
+git commit --allow-empty -m "Fix #numerodaissue"
+'''
 
 
 ## Progresso
