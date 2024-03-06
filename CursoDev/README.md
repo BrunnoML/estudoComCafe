@@ -14,10 +14,12 @@ Meu objetivo é aprender com Filipe Deschamps durante as aulas do Curso.dev e re
 
 ### Testes
 
-`git commit -m "update: README CursoDev progress: Close Dia001 #4"` Não fechou
-`git commit -m "update: README CursoDev progress: Dia001 Close #4"` Fechou a issue
-`git commit -m "reopen issue"` Era para reabrir a última issue fechada
-`git commit -m "reopen issue #4"` Também não reabriu
+- `git commit -m "update: README CursoDev progress: Close Dia001 #4"` Não fechou
+- `git commit -m "update: README CursoDev progress: Dia001 Close #4"` Fechou a issue
+- `git commit -m "reopen issue"` Era para reabrir a última issue fechada
+- `git commit -m "reopen issue #4"` Também não reabriu
+- Alterei Assignees e coloquei meu nome, mesmo assim não reabriu depois de usar o reopen issu #4
+
 
 ## Progresso
 
