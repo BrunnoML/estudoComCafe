@@ -13,7 +13,7 @@ Meu objetivo é aprender com Filipe Deschamps durante as aulas do Curso.dev e re
 
 ## Progresso
 
-- [ ] Dia 1
+- [x] Dia 1
 - [ ] Dia 2
 - [ ] Dia 3
 - [ ] Dia 4
