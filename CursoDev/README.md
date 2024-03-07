@@ -18,6 +18,7 @@ Meu objetivo é aprender com **Filipe Deschamps** durante as aulas do **Curso.de
 
 ```
 git commit --allow-empty -m "Close #numerodaissue"
+git commit --allow-empty -m "close #numerodaissue, close #numerodaissue"
 git commit -m "update: README CursoDev progress: DiaXXX ok"
 ```
 
@@ -25,16 +26,16 @@ git commit -m "update: README CursoDev progress: DiaXXX ok"
 ## 🚀 Progresso
 
 - [x] Dia 001
-- [ ] Dia 002
-- [ ] Dia 003
-- [ ] Dia 004
-- [ ] Dia 005
-- [ ] Dia 006
-- [ ] Dia 007
-- [ ] Dia 008
-- [ ] Dia 009
-- [ ] Dia 010
-- [ ] Dia 011
+- [x] Dia 002
+- [x] Dia 003
+- [x] Dia 004
+- [x] Dia 005
+- [x] Dia 006
+- [x] Dia 007
+- [x] Dia 008
+- [x] Dia 009
+- [x] Dia 010
+- [x] Dia 011
 - [ ] Dia 012
 - [ ] Dia 013
 - [ ] Dia 014
