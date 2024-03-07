@@ -1,49 +1,52 @@
-# Curso.dev
+# 📚 Curso.dev
 
 Este é um arquivo para acompanhar meu progresso no Curso.dev.
 
-## Objetivo
+## 🎯 Objetivo 
 
-Meu objetivo é aprender com Filipe Deschamps durante as aulas do Curso.dev e registrar o progresso do curso.
+Meu objetivo é aprender com **Filipe Deschamps** durante as aulas do [Curso.dev](https://curso.dev/) e registrar o progresso do curso.
 
-## Regras
+## 📝 Regras 
 
-- Durante a semana, dedicarei um tempo para acessar as aulas do curso.
-- Marcarei cada dia como concluído conforme avanço no curso.
-- Estou usando commit com a alteração do README ou sem alteração de código via terminal para poder fechar uma issue.
+- Durante a semana, dedicarei um tempo para acessar as aulas do curso;
+- Criarei uma issue para cada dia e tasks para cada aula;
+- Marcarei o progresso concluído conforme avanço das aulas;
+- Usarei a sequência abaixo para alterações:
+1. Marcarei diretamente na issue as tasks na medida em que forem concluídas;
+2. Usarei um commit vazio via terminal para poder fechar uma issue;
+3. Usarei um commit com mensagem via terminal para alterar o README e informar que o dia foi concluído com um OK;
 
-'''
-bash
-git commit -m "update: README CursoDev progress: Dia001 Close #4"
-git commit --allow-empty -m "Fix #numerodaissue"
-'''
+```
+git commit --allow-empty -m "Close #numerodaissue"
+git commit -m "update: README CursoDev progress: DiaXXX ok"
+```
 
 
-## Progresso
+## 🚀 Progresso
 
-- [x] Dia 1
-- [ ] Dia 2
-- [ ] Dia 3
-- [ ] Dia 4
-- [ ] Dia 5
-- [ ] Dia 6
-- [ ] Dia 7
-- [ ] Dia 8
-- [ ] Dia 9
-- [ ] Dia 10
-- [ ] Dia 11
-- [ ] Dia 12
-- [ ] Dia 13
-- [ ] Dia 14
-- [ ] Dia 15
-- [ ] Dia 16
-- [ ] Dia 17
-- [ ] Dia 18
-- [ ] Dia 19
-- [ ] Dia 20
-- [ ] Dia 21
-- [ ] Dia 22
-- [ ] Dia 23
+- [x] Dia 001
+- [ ] Dia 002
+- [ ] Dia 003
+- [ ] Dia 004
+- [ ] Dia 005
+- [ ] Dia 006
+- [ ] Dia 007
+- [ ] Dia 008
+- [ ] Dia 009
+- [ ] Dia 010
+- [ ] Dia 011
+- [ ] Dia 012
+- [ ] Dia 013
+- [ ] Dia 014
+- [ ] Dia 015
+- [ ] Dia 016
+- [ ] Dia 017
+- [ ] Dia 018
+- [ ] Dia 019
+- [ ] Dia 020
+- [ ] Dia 021
+- [ ] Dia 022
+- [ ] Dia 023
 
 
 ## Observações

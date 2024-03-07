@@ -3,16 +3,16 @@
 
 Este é um arquivo para acompanhar meu progresso na Faculdade Estácio.
 
-## Objetivo
+## 🎯 Objetivo 
 
 Concluir as disciplinas da faculdade.
 
-## Regras
+## 📝 Regras 
 
 No README da raiz dos arquivos da Faculdade.
 
 
-## Progresso
+## 🚀 Progresso
 
 - [x] DGT0280 Desenvolvimento Web em HTML5, CSS, JAVASCRIPT e PHP
 - [x] DGT0008 PENSAMENTO COMPUTACIONAL

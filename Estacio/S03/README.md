@@ -3,19 +3,19 @@
 
 Este é um arquivo para acompanhar meu progresso na Faculdade Estácio.
 
-## Objetivo
+## 🎯 Objetivo 
 
 Concluir as disciplinas da faculdade.
 
-## Regras
+## 📝 Regras 
 
 No README da raiz dos arquivos da Faculdade.
 
 
-## Progresso
+## 🚀 Progresso
 
-- [] DGT0282 BANCO DE DADOS
-- [] DGT0297 ENGENHARIA DE USABILIDADE
-- [] DGT1335 ESTRUTURA DE DADOS
-- [] DGT1336 GESTÃO DE SERVIÇOS DE TI
-- [] DGT0002 COMPORTAMENTO ORGANIZACIONAL
+- [ ] DGT0282 BANCO DE DADOS
+- [ ] DGT0297 ENGENHARIA DE USABILIDADE
+- [ ] DGT1335 ESTRUTURA DE DADOS
+- [ ] DGT1336 GESTÃO DE SERVIÇOS DE TI
+- [ ] DGT0002 COMPORTAMENTO ORGANIZACIONAL
