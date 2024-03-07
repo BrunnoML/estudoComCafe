@@ -1,117 +1,122 @@
-# Desafio de 100 Dias
+# 📚 Desafio de 100 Dias de Python
 
 Este é um arquivo para acompanhar meu progresso no Desafio de 100 Dias de Python.
 
-## Objetivo
+## 🎯 Objetivo
 
 Meu objetivo é completar 100 dias de estudo de Python.
 
-## Regras
+## 📝 Regras
 
 - Todos os finais de semana, dedicarei um tempo para trabalhar no meu projeto.
 - Marcarei cada dia como concluído conforme avanço no desafio.
+- Usarei um commit com mensagem via terminal para alterar o README e informar que o dia foi concluído com um OK;
 
-## Progresso
+```
+git commit -m "update: README 100DoP progress: DiaXXX ok"
+```
 
-- [ ] Dia 1
-- [ ] Dia 2
-- [ ] Dia 3
-- [ ] Dia 4
-- [ ] Dia 5
-- [ ] Dia 6
-- [ ] Dia 7
-- [ ] Dia 8
-- [ ] Dia 9
-- [ ] Dia 10
-- [ ] Dia 11
-- [ ] Dia 12
-- [ ] Dia 13
-- [ ] Dia 14
-- [ ] Dia 15
-- [ ] Dia 16
-- [ ] Dia 17
-- [ ] Dia 18
-- [ ] Dia 19
-- [ ] Dia 20
-- [ ] Dia 21
-- [ ] Dia 22
-- [ ] Dia 23
-- [ ] Dia 24
-- [ ] Dia 25
-- [ ] Dia 26
-- [ ] Dia 27
-- [ ] Dia 28
-- [ ] Dia 29
-- [ ] Dia 30
-- [ ] Dia 31
-- [ ] Dia 32
-- [ ] Dia 33
-- [ ] Dia 34
-- [ ] Dia 35
-- [ ] Dia 36
-- [ ] Dia 37
-- [ ] Dia 38
-- [ ] Dia 39
-- [ ] Dia 40
-- [ ] Dia 41
-- [ ] Dia 42
-- [ ] Dia 43
-- [ ] Dia 44
-- [ ] Dia 45
-- [ ] Dia 46
-- [ ] Dia 47
-- [ ] Dia 48
-- [ ] Dia 49
-- [ ] Dia 50
-- [ ] Dia 51
-- [ ] Dia 52
-- [ ] Dia 53
-- [ ] Dia 54
-- [ ] Dia 55
-- [ ] Dia 56
-- [ ] Dia 57
-- [ ] Dia 58
-- [ ] Dia 59
-- [ ] Dia 60
-- [ ] Dia 61
-- [ ] Dia 62
-- [ ] Dia 63
-- [ ] Dia 64
-- [ ] Dia 65
-- [ ] Dia 66
-- [ ] Dia 67
-- [ ] Dia 68
-- [ ] Dia 69
-- [ ] Dia 70
-- [ ] Dia 71
-- [ ] Dia 72
-- [ ] Dia 73
-- [ ] Dia 74
-- [ ] Dia 75
-- [ ] Dia 76
-- [ ] Dia 77
-- [ ] Dia 78
-- [ ] Dia 79
-- [ ] Dia 80
-- [ ] Dia 81
-- [ ] Dia 82
-- [ ] Dia 83
-- [ ] Dia 84
-- [ ] Dia 85
-- [ ] Dia 86
-- [ ] Dia 87
-- [ ] Dia 88
-- [ ] Dia 89
-- [ ] Dia 90
-- [ ] Dia 91
-- [ ] Dia 92
-- [ ] Dia 93
-- [ ] Dia 94
-- [ ] Dia 95
-- [ ] Dia 96
-- [ ] Dia 97
-- [ ] Dia 98
-- [ ] Dia 99
+## 🚀  Progresso 100DoP
+
+- [ ] Dia 001
+- [ ] Dia 002
+- [ ] Dia 003
+- [ ] Dia 004
+- [ ] Dia 005
+- [ ] Dia 006
+- [ ] Dia 007
+- [ ] Dia 008
+- [ ] Dia 009
+- [ ] Dia 010
+- [ ] Dia 011
+- [ ] Dia 012
+- [ ] Dia 013
+- [ ] Dia 014
+- [ ] Dia 015
+- [ ] Dia 016
+- [ ] Dia 017
+- [ ] Dia 018
+- [ ] Dia 019
+- [ ] Dia 020
+- [ ] Dia 021
+- [ ] Dia 022
+- [ ] Dia 023
+- [ ] Dia 024
+- [ ] Dia 025
+- [ ] Dia 026
+- [ ] Dia 027
+- [ ] Dia 028
+- [ ] Dia 029
+- [ ] Dia 030
+- [ ] Dia 031
+- [ ] Dia 032
+- [ ] Dia 033
+- [ ] Dia 034
+- [ ] Dia 035
+- [ ] Dia 036
+- [ ] Dia 037
+- [ ] Dia 038
+- [ ] Dia 039
+- [ ] Dia 040
+- [ ] Dia 041
+- [ ] Dia 042
+- [ ] Dia 043
+- [ ] Dia 044
+- [ ] Dia 045
+- [ ] Dia 046
+- [ ] Dia 047
+- [ ] Dia 048
+- [ ] Dia 049
+- [ ] Dia 050
+- [ ] Dia 051
+- [ ] Dia 052
+- [ ] Dia 053
+- [ ] Dia 054
+- [ ] Dia 055
+- [ ] Dia 056
+- [ ] Dia 057
+- [ ] Dia 058
+- [ ] Dia 059
+- [ ] Dia 060
+- [ ] Dia 061
+- [ ] Dia 062
+- [ ] Dia 063
+- [ ] Dia 064
+- [ ] Dia 065
+- [ ] Dia 066
+- [ ] Dia 067
+- [ ] Dia 068
+- [ ] Dia 069
+- [ ] Dia 070
+- [ ] Dia 071
+- [ ] Dia 072
+- [ ] Dia 073
+- [ ] Dia 074
+- [ ] Dia 075
+- [ ] Dia 076
+- [ ] Dia 077
+- [ ] Dia 078
+- [ ] Dia 079
+- [ ] Dia 080
+- [ ] Dia 081
+- [ ] Dia 082
+- [ ] Dia 083
+- [ ] Dia 084
+- [ ] Dia 085
+- [ ] Dia 086
+- [ ] Dia 087
+- [ ] Dia 088
+- [ ] Dia 089
+- [ ] Dia 090
+- [ ] Dia 091
+- [ ] Dia 092
+- [ ] Dia 093
+- [ ] Dia 094
+- [ ] Dia 095
+- [ ] Dia 096
+- [ ] Dia 097
+- [ ] Dia 098
+- [ ] Dia 099
 - [ ] Dia 100
 
 ## Observações
