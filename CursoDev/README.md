@@ -4,8 +4,7 @@ Este é um arquivo para acompanhar meu progresso no Curso.dev.
 
 ## 🎯 Objetivo 
 
-Meu objetivo é aprender com **Filipe Deschamps** durante as aulas do [Curso.dev](https://curso.dev/?target="_blank" rel="noopener noreferrer")
-  e registrar o progresso do curso.
+Meu objetivo é aprender com **Filipe Deschamps** durante as aulas do <a href="https://curso.dev" target="_blank">Curso.dev</a> e registrar o progresso do curso.
 
 ## 📝 Regras 
 
