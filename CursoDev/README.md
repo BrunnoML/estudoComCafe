@@ -36,7 +36,7 @@ git commit -m "update: README CursoDev progress: DiaXXX ok"
 - [x] Dia 009
 - [x] Dia 010
 - [x] Dia 011
-- [ ] Dia 012
+- [x] Dia 012
 - [ ] Dia 013
 - [ ] Dia 014
 - [ ] Dia 015
