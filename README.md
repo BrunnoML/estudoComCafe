@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Markdown
 - Git e Github
-- Notion
+
 
 ## 💻 Projeto
 

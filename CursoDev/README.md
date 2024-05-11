@@ -37,8 +37,8 @@ git commit -m "update: README CursoDev progress: DiaXXX ok"
 - [x] Dia 010
 - [x] Dia 011
 - [x] Dia 012
-- [ ] Dia 013
-- [ ] Dia 014
+- [x] Dia 013
+- [x] Dia 014
 - [ ] Dia 015
 - [ ] Dia 016
 - [ ] Dia 017
@@ -48,8 +48,14 @@ git commit -m "update: README CursoDev progress: DiaXXX ok"
 - [ ] Dia 021
 - [ ] Dia 022
 - [ ] Dia 023
+- [ ] Dia 024
+- [ ] Dia 025
+- [ ] Dia 026
+- [ ] Dia 027
+- [ ] Dia 028
 
 
 ## Observações
 
 - O curso até esta data, dia 5 de março de 2024, contém 23 dias, mas continua em construção. Assim que for acrescentado novas aulas, atualizo este README.
+- Em 10 de maio de 2024 atualizei a quantidade de aulas para 28.
