@@ -18,7 +18,7 @@ git commit -m "update: README 100DoP progress: DiaXXX ok"
 
 ## 🚀  Progresso 100DoP
 
-- [ ] Dia 001
+- [x] Dia 001
 - [ ] Dia 002
 - [ ] Dia 003
 - [ ] Dia 004
